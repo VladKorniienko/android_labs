@@ -1,1 +1,2 @@
-# android_lab1
+# Android labs
+ Task No.7
